@@ -1,0 +1,19 @@
+---
+title: Process iris into tidy_iris
+author: Jixing Liu
+date: Sys.Date()
+output_format: html_document
+vignette: >
+  %\VignetteIndexEntry{Process iris into tidy_iris}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+
+```{r}
+library(dplyr)
+iris <- read.csv(project_extdata_path('iris.csv'))
+tidy_iris <- iris %>%
+  rename(sepal_length = Sepal.Length, 
+         species = Species)
+```
+Followed by a description of what we are doing.

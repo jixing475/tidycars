@@ -2,7 +2,10 @@ configuration:
   files:
     tidy_cars.Rmd:
       enabled: yes
+    tidy_iris.Rmd:
+      enabled: yes
   objects:
   - tidy_cars
+  - tidy_iris
   render_root:
     tmp: '735287'

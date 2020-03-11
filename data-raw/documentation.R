@@ -9,8 +9,9 @@
 #'     and/or DataPackageR::load_all
 #' _datasets() to load them.
 #' @seealso
-#' \link{tidy_cars}
+#' \link{tidy_iris}
 NULL
+
 
 
 
@@ -30,3 +31,20 @@ NULL
 
 
 
+
+#' new data file in this packages
+#' @name tidy_iris
+#' @docType data
+#' @title Descriptive data title
+#' @format a \code{data.frame} containing the following fields:
+#' \describe{
+#' \item{sepal_length}{}
+#' \item{Sepal.Width}{}
+#' \item{Petal.Length}{}
+#' \item{Petal.Width}{}
+#' \item{species}{}
+#' }
+#' @source The data comes from________________________.
+#' @seealso
+#' \link{TidyCars}
+NULL

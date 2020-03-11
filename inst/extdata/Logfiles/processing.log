@@ -29,3 +29,48 @@ TRACE [2020-03-11 09:53:48] Done
 TRACE [2020-03-11 09:53:48] DataPackageR succeeded
 TRACE [2020-03-11 09:53:48] Building documentation
 TRACE [2020-03-11 09:53:49] Building package
+TRACE [2020-03-11 10:11:05] Logging to /private/var/folders/2_/z54fn6nd1lz8t14x8fd31tgw0000gp/T/RtmpmH1QUN/TidyCars/inst/extdata/Logfiles/processing.log
+TRACE [2020-03-11 10:11:05] Processing data
+TRACE [2020-03-11 10:11:05] Reading yaml configuration
+TRACE [2020-03-11 10:11:05] Found /private/var/folders/2_/z54fn6nd1lz8t14x8fd31tgw0000gp/T/RtmpmH1QUN/TidyCars/data-raw/tidy_cars.Rmd
+TRACE [2020-03-11 10:11:05] Found /private/var/folders/2_/z54fn6nd1lz8t14x8fd31tgw0000gp/T/RtmpmH1QUN/TidyCars/data-raw/tidy_iris.Rmd
+TRACE [2020-03-11 10:11:05] Processing 1 of 2: /private/var/folders/2_/z54fn6nd1lz8t14x8fd31tgw0000gp/T/RtmpmH1QUN/TidyCars/data-raw/tidy_cars.Rmd
+
+TRACE [2020-03-11 10:11:05] 1 data set(s) created by tidy_cars.Rmd
+TRACE [2020-03-11 10:11:05] Processing 2 of 2: /private/var/folders/2_/z54fn6nd1lz8t14x8fd31tgw0000gp/T/RtmpmH1QUN/TidyCars/data-raw/tidy_iris.Rmd
+
+TRACE [2020-03-11 10:11:05] 1 data set(s) created by tidy_iris.Rmd
+TRACE [2020-03-11 10:11:05] NEWS.md file found, updating!
+DEBUG [2020-03-11 10:11:05] tidy_iris added.
+DEBUG [2020-03-11 10:11:05] tidy_iris added.
+DEBUG [2020-03-11 10:11:05] tidy_iris added.
+TRACE [2020-03-11 10:11:05] NEWS.md file found, updating!
+TRACE [2020-03-11 10:11:05] NEWS.md file found, updating!
+TRACE [2020-03-11 10:11:05] Data has been updated and DataVersion string incremented automatically to 0.1.1
+TRACE [2020-03-11 10:11:05] Saving to data
+TRACE [2020-03-11 10:11:05] Copied documentation to /private/var/folders/2_/z54fn6nd1lz8t14x8fd31tgw0000gp/T/RtmpmH1QUN/TidyCars/R/TidyCars.R
+TRACE [2020-03-11 10:11:05] Done
+TRACE [2020-03-11 10:11:05] DataPackageR succeeded
+TRACE [2020-03-11 10:11:05] Building documentation
+TRACE [2020-03-11 10:11:06] Building package
+TRACE [2020-03-11 10:11:15] Rebuilding data package documentation.
+TRACE [2020-03-11 10:11:53] Rebuilding data package documentation.
+TRACE [2020-03-11 10:12:00] Logging to /private/var/folders/2_/z54fn6nd1lz8t14x8fd31tgw0000gp/T/RtmpmH1QUN/TidyCars/inst/extdata/Logfiles/processing.log
+TRACE [2020-03-11 10:12:00] Processing data
+TRACE [2020-03-11 10:12:00] Reading yaml configuration
+TRACE [2020-03-11 10:12:00] Found /private/var/folders/2_/z54fn6nd1lz8t14x8fd31tgw0000gp/T/RtmpmH1QUN/TidyCars/data-raw/tidy_cars.Rmd
+TRACE [2020-03-11 10:12:00] Found /private/var/folders/2_/z54fn6nd1lz8t14x8fd31tgw0000gp/T/RtmpmH1QUN/TidyCars/data-raw/tidy_iris.Rmd
+TRACE [2020-03-11 10:12:00] Processing 1 of 2: /private/var/folders/2_/z54fn6nd1lz8t14x8fd31tgw0000gp/T/RtmpmH1QUN/TidyCars/data-raw/tidy_cars.Rmd
+
+TRACE [2020-03-11 10:12:00] 1 data set(s) created by tidy_cars.Rmd
+TRACE [2020-03-11 10:12:00] Processing 2 of 2: /private/var/folders/2_/z54fn6nd1lz8t14x8fd31tgw0000gp/T/RtmpmH1QUN/TidyCars/data-raw/tidy_iris.Rmd
+
+TRACE [2020-03-11 10:12:00] 1 data set(s) created by tidy_iris.Rmd
+TRACE [2020-03-11 10:12:00] NEWS.md file found, updating!
+TRACE [2020-03-11 10:12:00] Processed data sets match existing data sets at version 0.1.1
+TRACE [2020-03-11 10:12:00] Saving to data
+TRACE [2020-03-11 10:12:00] Copied documentation to /private/var/folders/2_/z54fn6nd1lz8t14x8fd31tgw0000gp/T/RtmpmH1QUN/TidyCars/R/TidyCars.R
+TRACE [2020-03-11 10:12:00] Done
+TRACE [2020-03-11 10:12:00] DataPackageR succeeded
+TRACE [2020-03-11 10:12:00] Building documentation
+TRACE [2020-03-11 10:12:01] Building package
