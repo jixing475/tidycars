@@ -1,0 +1,31 @@
+TRACE [2020-03-11 09:48:24] Logging to /private/var/folders/2_/z54fn6nd1lz8t14x8fd31tgw0000gp/T/RtmpmH1QUN/TidyCars/inst/extdata/Logfiles/processing.log
+TRACE [2020-03-11 09:48:24] Processing data
+TRACE [2020-03-11 09:48:24] Reading yaml configuration
+TRACE [2020-03-11 09:48:24] Found /private/var/folders/2_/z54fn6nd1lz8t14x8fd31tgw0000gp/T/RtmpmH1QUN/TidyCars/data-raw/tidy_cars.Rmd
+TRACE [2020-03-11 09:48:24] Processing 1 of 1: /private/var/folders/2_/z54fn6nd1lz8t14x8fd31tgw0000gp/T/RtmpmH1QUN/TidyCars/data-raw/tidy_cars.Rmd
+
+TRACE [2020-03-11 09:48:25] 1 data set(s) created by tidy_cars.Rmd
+TRACE [2020-03-11 09:48:25] NEWS.md file not found, creating!
+TRACE [2020-03-11 09:48:25] NEWS.md file found, updating!
+TRACE [2020-03-11 09:48:25] Saving to data
+TRACE [2020-03-11 09:48:25] Copied documentation to /private/var/folders/2_/z54fn6nd1lz8t14x8fd31tgw0000gp/T/RtmpmH1QUN/TidyCars/R/TidyCars.R
+TRACE [2020-03-11 09:48:25] Done
+TRACE [2020-03-11 09:48:25] DataPackageR succeeded
+TRACE [2020-03-11 09:48:25] Building documentation
+TRACE [2020-03-11 09:48:25] Building package
+TRACE [2020-03-11 09:51:59] Rebuilding data package documentation.
+TRACE [2020-03-11 09:53:48] Logging to /private/var/folders/2_/z54fn6nd1lz8t14x8fd31tgw0000gp/T/RtmpmH1QUN/TidyCars/inst/extdata/Logfiles/processing.log
+TRACE [2020-03-11 09:53:48] Processing data
+TRACE [2020-03-11 09:53:48] Reading yaml configuration
+TRACE [2020-03-11 09:53:48] Found /private/var/folders/2_/z54fn6nd1lz8t14x8fd31tgw0000gp/T/RtmpmH1QUN/TidyCars/data-raw/tidy_cars.Rmd
+TRACE [2020-03-11 09:53:48] Processing 1 of 1: /private/var/folders/2_/z54fn6nd1lz8t14x8fd31tgw0000gp/T/RtmpmH1QUN/TidyCars/data-raw/tidy_cars.Rmd
+
+TRACE [2020-03-11 09:53:48] 1 data set(s) created by tidy_cars.Rmd
+TRACE [2020-03-11 09:53:48] NEWS.md file found, updating!
+TRACE [2020-03-11 09:53:48] Processed data sets match existing data sets at version 0.1.0
+TRACE [2020-03-11 09:53:48] Saving to data
+TRACE [2020-03-11 09:53:48] Copied documentation to /private/var/folders/2_/z54fn6nd1lz8t14x8fd31tgw0000gp/T/RtmpmH1QUN/TidyCars/R/TidyCars.R
+TRACE [2020-03-11 09:53:48] Done
+TRACE [2020-03-11 09:53:48] DataPackageR succeeded
+TRACE [2020-03-11 09:53:48] Building documentation
+TRACE [2020-03-11 09:53:49] Building package
